@@ -31,3 +31,4 @@ loop do
   puts "Do you wish to explore other cities? y/n"
   break if gets.chomp.downcase != 'y'
 end
+ 
